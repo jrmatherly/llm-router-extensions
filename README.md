@@ -6,4 +6,4 @@ The app fetches `marketplace/plugins.json` from this repository's `main` branch.
 
 The list is empty for now: the plugins llm-router ships are bundled with the app, so nothing needs to be hosted here yet.
 
-Point the app at another manifest with `CCR_PLUGIN_MARKETPLACE_URL`.
+Point the app at another manifest with `LLMR_PLUGIN_MARKETPLACE_URL`.
